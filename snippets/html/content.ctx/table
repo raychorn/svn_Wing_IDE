@@ -1,0 +1,7 @@
+|m|<table width="%(width||100%)s" cellspacing="0" cellpadding="0" border="0">
+   <tr>
+	 <td>
+	   |!|
+	 </td>
+   </tr>
+ </table>

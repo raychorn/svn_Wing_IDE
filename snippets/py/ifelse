@@ -1,0 +1,4 @@
+|m|if %(conditional)s:
+	%(body)s
+else:
+	%(else)s

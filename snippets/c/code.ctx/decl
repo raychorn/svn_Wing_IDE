@@ -1,0 +1,2 @@
+|m|%(type||int)s %(name)s%(initial|| = )s;
+|!|
